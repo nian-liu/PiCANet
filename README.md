@@ -16,7 +16,7 @@ http://caffe.berkeleyvision.org/installation.html for caffe installation.
 ## Training:
 1. Download the pretrained VGG model ([vgg16_20M.caffemodel](http://liangchiehchen.com/projects/Init%20Models.html) from deeplab) or the [ResNet50](https://github.com/KaimingHe/deep-residual-networks) model. Modify the model directories in ./models/train_SO.sh.
 2. Prepare your images, ground truth saliency maps, and the list file (please refer to ./matlab/list/train_list.txt). Modify corresponding contents in prototxt files.
-3. Cd to ./models, run sh train_SO.sh to start training.
+3. Cd to ./models, run ```sh train_SO.sh``` to start training.
 
 ## Acknowledgement:
 Our code uses some opensource code from [deeplab](https://bitbucket.org/aquariusjay/deeplab-public-ver2) and a [caffe pull request](https://github.com/BVLC/caffe/pull/2016) to reduce GPU memory usage. Thank the authors.
