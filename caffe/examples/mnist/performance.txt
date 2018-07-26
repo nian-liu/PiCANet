@@ -1,0 +1,104 @@
+Iteration 0, Testing net (#0)
+    Test net output #0: accuracy = 0.1343
+    Test net output #1: loss = 2.31505 (* 1 = 2.31505 loss)
+Iteration 0, loss = 2.35499
+    Train net output #1: loss = 2.35499 (* 1 = 2.35499 loss)
+Iteration 500, Testing net (#0)
+    Test net output #0: accuracy = 0.9725
+    Test net output #1: loss = 0.0885006 (* 1 = 0.0885006 loss)
+Iteration 500, loss = 0.134809
+    Train net output #1: loss = 0.134809 (* 1 = 0.134809 loss)
+Iteration 1000, Testing net (#0)
+    Test net output #0: accuracy = 0.9811
+    Test net output #1: loss = 0.0567046 (* 1 = 0.0567046 loss)
+Iteration 1000, loss = 0.0848003
+    Train net output #1: loss = 0.0848002 (* 1 = 0.0848002 loss)
+Iteration 1500, Testing net (#0)
+    Test net output #0: accuracy = 0.9845
+    Test net output #1: loss = 0.0484045 (* 1 = 0.0484045 loss)
+Iteration 1500, loss = 0.111811
+    Train net output #1: loss = 0.111811 (* 1 = 0.111811 loss)
+Iteration 2000, Testing net (#0)
+    Test net output #0: accuracy = 0.9861
+    Test net output #1: loss = 0.0434539 (* 1 = 0.0434539 loss)
+Iteration 2000, loss = 0.0229451
+    Train net output #1: loss = 0.0229449 (* 1 = 0.0229449 loss)
+Iteration 2500, Testing net (#0)
+    Test net output #0: accuracy = 0.9864
+    Test net output #1: loss = 0.0450339 (* 1 = 0.0450339 loss)
+Iteration 2500, loss = 0.0199156
+    Train net output #1: loss = 0.0199154 (* 1 = 0.0199154 loss)
+Iteration 3000, Testing net (#0)
+    Test net output #0: accuracy = 0.9883
+    Test net output #1: loss = 0.0374557 (* 1 = 0.0374557 loss)
+Iteration 3000, loss = 0.00773166
+    Train net output #1: loss = 0.00773148 (* 1 = 0.00773148 loss)
+Iteration 3500, Testing net (#0)
+    Test net output #0: accuracy = 0.9873
+    Test net output #1: loss = 0.0390788 (* 1 = 0.0390788 loss)
+Iteration 3500, loss = 0.00610322
+    Train net output #1: loss = 0.00610304 (* 1 = 0.00610304 loss)
+Iteration 4000, Testing net (#0)
+    Test net output #0: accuracy = 0.9898
+    Test net output #1: loss = 0.0315308 (* 1 = 0.0315308 loss)
+Iteration 4000, loss = 0.0225917
+    Train net output #1: loss = 0.0225915 (* 1 = 0.0225915 loss)
+Iteration 4500, Testing net (#0)
+    Test net output #0: accuracy = 0.987
+    Test net output #1: loss = 0.0378248 (* 1 = 0.0378248 loss)
+Iteration 4500, loss = 0.00617991
+    Train net output #1: loss = 0.00617968 (* 1 = 0.00617968 loss)
+Iteration 5000, Testing net (#0)
+    Test net output #0: accuracy = 0.9898
+    Test net output #1: loss = 0.0327434 (* 1 = 0.0327434 loss)
+Iteration 5000, loss = 0.0627444
+    Train net output #1: loss = 0.0627441 (* 1 = 0.0627441 loss)
+Iteration 5500, Testing net (#0)
+    Test net output #0: accuracy = 0.9897
+    Test net output #1: loss = 0.0334103 (* 1 = 0.0334103 loss)
+Iteration 5500, loss = 0.00715059
+    Train net output #1: loss = 0.00715037 (* 1 = 0.00715037 loss)
+Iteration 6000, Testing net (#0)
+    Test net output #0: accuracy = 0.9904
+    Test net output #1: loss = 0.0292743 (* 1 = 0.0292743 loss)
+Iteration 6000, loss = 0.00379749
+    Train net output #1: loss = 0.00379731 (* 1 = 0.00379731 loss)
+Iteration 6500, Testing net (#0)
+    Test net output #0: accuracy = 0.99
+    Test net output #1: loss = 0.0322349 (* 1 = 0.0322349 loss)
+Iteration 6500, loss = 0.00813432
+    Train net output #1: loss = 0.00813411 (* 1 = 0.00813411 loss)
+Iteration 7000, Testing net (#0)
+    Test net output #0: accuracy = 0.9906
+    Test net output #1: loss = 0.0292053 (* 1 = 0.0292053 loss)
+Iteration 7000, loss = 0.00281274
+    Train net output #1: loss = 0.00281252 (* 1 = 0.00281252 loss)
+Iteration 7500, Testing net (#0)
+    Test net output #0: accuracy = 0.9887
+    Test net output #1: loss = 0.0325629 (* 1 = 0.0325629 loss)
+Iteration 7500, loss = 0.0015672
+    Train net output #1: loss = 0.00156695 (* 1 = 0.00156695 loss)
+Iteration 8000, Testing net (#0)
+    Test net output #0: accuracy = 0.9901
+    Test net output #1: loss = 0.0303782 (* 1 = 0.0303782 loss)
+Iteration 8000, loss = 0.00629733
+    Train net output #1: loss = 0.00629706 (* 1 = 0.00629706 loss)
+Iteration 8500, Testing net (#0)
+    Test net output #0: accuracy = 0.9908
+    Test net output #1: loss = 0.0309837 (* 1 = 0.0309837 loss)
+Iteration 8500, loss = 0.00606282
+    Train net output #1: loss = 0.00606256 (* 1 = 0.00606256 loss)
+Iteration 9000, Testing net (#0)
+    Test net output #0: accuracy = 0.99
+    Test net output #1: loss = 0.0308622 (* 1 = 0.0308622 loss)
+Iteration 9000, loss = 0.0208406
+    Train net output #1: loss = 0.0208404 (* 1 = 0.0208404 loss)
+Iteration 9500, Testing net (#0)
+    Test net output #0: accuracy = 0.9886
+    Test net output #1: loss = 0.0373267 (* 1 = 0.0373267 loss)
+Iteration 9500, loss = 0.00245278
+    Train net output #1: loss = 0.00245254 (* 1 = 0.00245254 loss)
+Iteration 10000, loss = 0.00366357
+Iteration 10000, Testing net (#0)
+    Test net output #0: accuracy = 0.9902
+    Test net output #1: loss = 0.0297281 (* 1 = 0.0297281 loss)
