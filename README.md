@@ -23,7 +23,7 @@ Our code uses some opensource code from [deeplab](https://bitbucket.org/aquarius
 
 
 ## Citing our work
-Please kindly cite our work in your publications if it helps your research:
+Please cite our work if it helps your research:
 ```
 @inproceedings{liu2018picanet,
   title={PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection},
