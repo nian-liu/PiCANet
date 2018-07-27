@@ -12,6 +12,7 @@ http://caffe.berkeleyvision.org/installation.html for caffe installation.
 3. Put your images into ./matlab/images.
 4. Cd to ./matlab, run 'predict_SOs.m' and the saliency maps will be generated in ./matlab/results. You can also select whether to use the VGG based model or the ResNet50 based model in line 16 or 17.
 5. You can also consider to use CRF post-processing to improve the detection results like we did in our paper. Please refer to Qibin Hou's [code](https://github.com/Andrew-Qibin/dss_crf).
+6. We also provide our saliency maps [here](https://drive.google.com/open?id=1IXbgSp9g0mp0bN3yY137wzq6UW0Q6CaU).
 
 ## Training:
 1. Download the pretrained VGG model ([vgg16_20M.caffemodel](http://liangchiehchen.com/projects/Init%20Models.html) from deeplab) or the [ResNet50](https://github.com/KaimingHe/deep-residual-networks) model. Modify the model directories in ./models/train_SO.sh.
