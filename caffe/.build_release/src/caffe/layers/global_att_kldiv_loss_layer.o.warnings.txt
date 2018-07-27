@@ -1,4 +1,0 @@
-In file included from src/caffe/layers/global_att_kldiv_loss_layer.cpp:5:0:
-./include/caffe/layers/global_att_kldiv_loss_layer.hpp:41:36: warning: non-static data member initializers only available with -std=c++11 or -std=gnu++11 [enabled by default]
-   const Dtype epsilon_ = Dtype(1e-6);
-                                    ^
