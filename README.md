@@ -32,8 +32,4 @@ Please kindly cite our work in your publications if it helps your research:
   pages={3089--3098},
   year={2018}
 }
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> e0c4e5cb452864efa4a125c0f6e38affdd3b62fb
