@@ -20,7 +20,7 @@ http://caffe.berkeleyvision.org/installation.html for caffe installation.
 3. Cd to ./models, run ```sh train_SO.sh``` to start training.
 
 ## Acknowledgement:
-Our code uses some opensource code from [deeplab](https://bitbucket.org/aquariusjay/deeplab-public-ver2) and a [caffe pull request](https://github.com/BVLC/caffe/pull/2016) to reduce GPU memory usage. Thank the authors.
+Our code uses some opensource code from [deeplab](https://bitbucket.org/aquariusjay/deeplab-public-ver2), [hybridnet](https://github.com/stephenyan1231/caffe-hybridnet), and a [caffe pull request](https://github.com/BVLC/caffe/pull/2016) to reduce GPU memory usage. Thank the authors.
 
 
 ## Citing our work
